@@ -1,6 +1,6 @@
 Print the required number of parts as listed below.
 
-4 x Spool Bar.stl   This part can be replaced with a 90mm length of 8mm round bar.
+4 x Spool Bar.stl   (This part can be replaced with a 90mm length of 8mm round bar).
 
 4 x Spool Carrier.stl  
 4 x Filament Pick-Up.stl  
